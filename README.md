@@ -45,8 +45,6 @@ src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-
 
 </p>
 
-<br>
-
 ###
 
 <br clear="both">
