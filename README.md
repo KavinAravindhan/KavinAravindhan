@@ -104,8 +104,6 @@
 <!-- <img src="https://raw.githubusercontent.com/KavinAravindhan/KavinAravindhan/output/snake.svg" alt="Snake animation" /> -->
 
 ###
-
-<br>
 <h3 align="left">👀 Profile Views</h3>
 
 <div align="center">
