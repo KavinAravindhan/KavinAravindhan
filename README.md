@@ -27,8 +27,6 @@
 🎓 **Upcoming MSCS student @ Columbia University**  
 🎓 **BE CSE @ PSG College of Technology**</p>
 
-<br clear="both">
-
 ###
 
 <br clear="both">
