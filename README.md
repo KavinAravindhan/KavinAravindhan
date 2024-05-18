@@ -36,7 +36,9 @@ src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-
 <p align="left">
 
 💼 **SWE Intern @ Fidelity Investments** 
+
 🎓 **Upcoming MSCS student @ Columbia University**  
+
 🎓 **BE CSE @ PSG College of Technology**
 
 🔭 I’m currently working on **Knowledge Graph, Embeddings, Vector Search & LLMs**
