@@ -104,9 +104,11 @@ src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-
 
 ###
 
-<!-- <br clear="both"> -->
+<br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/KavinAravindhan/KavinAravindhan/output/snake.svg" alt="Snake animation" /> -->
+
+<img src="https://raw.githubusercontent.com/KavinAravindhan/KavinAravindhan/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">👀 Profile Views</h3>
