@@ -22,13 +22,16 @@
 </div>
 
 ###
+<p align="justify">Passionate Computer Science engineer dedicated to solving real-world challenges through innovative solutions. Leveraging a strong foundation in algorithms, coding, and problem-solving to drive meaningful impact. Eager to collaborate and apply technical expertise to create practical solutions that improve lives and drive positive change.</p>
+
+###
 
 <img align="right" height="150"
 src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 ###
 
-<p align="left">Passionate Computer Science engineer dedicated to solving real-world challenges through innovative solutions. Leveraging a strong foundation in algorithms, coding, and problem-solving to drive meaningful impact. Eager to collaborate and apply technical expertise to create practical solutions that improve lives and drive positive change.
+<p align="left">
 
 💼 **SWE Intern @ Fidelity Investments**  
 🎓 **Upcoming MSCS student @ Columbia University**  
