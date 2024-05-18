@@ -21,7 +21,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Passionate Computer Science engineer dedicated to solving real-world challenges through innovative solutions. Leveraging a strong foundation in algorithms, coding, and problem-solving to drive meaningful impact. Eager to collaborate and apply technical expertise to create practical solutions that improve lives and drive positive change.
+
+💼 **SWE Intern @ Fidelity Investments**  
+🎓 **Upcoming MSCS student @ Columbia University**  
+🎓 **BE CSE @ PSG College of Technology**</p>
 
 <br clear="both">
 
