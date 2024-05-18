@@ -40,6 +40,9 @@
 </div>
 
 ###
+<br>
+<h3 align="left">🛠️ Languages & Tools</h3>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -105,7 +108,6 @@
 
 <br>
 <h3 align="left">👀 Profile Views</h3>
-<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/KavinAravindhan/count.svg?"  />
