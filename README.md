@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋! I'm Kavin Aravindhan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! I'm Kavin Aravindhan</h1>
+
 
 ###
 
@@ -18,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 ###
 
@@ -27,8 +28,6 @@
 💼 **SWE Intern @ Fidelity Investments**  
 🎓 **Upcoming MSCS student @ Columbia University**  
 🎓 **BE CSE @ PSG College of Technology**</p>
-
-<br clear="both">
 
 ###
 
