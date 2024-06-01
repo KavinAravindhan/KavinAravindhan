@@ -34,7 +34,7 @@ src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-
 
 💼 **SWE Intern @ Fidelity Investments** 
 
-🎓 **Upcoming MSCS Student @ Columbia University**  
+🎓 **Incoming MSCS Grad Student @ Columbia University**  
 
 🎓 **BE CSE @ PSG College of Technology**
 
