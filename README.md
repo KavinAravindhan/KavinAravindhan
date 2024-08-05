@@ -32,11 +32,11 @@ src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-
 ###
 <p align="justify">
 
-💼 **SWE Intern @ Fidelity Investments** 
-
-🎓 **Incoming MSCS Grad Student @ Columbia University**  
+🎓 **MSCS Grad Student @ Columbia University**  
 
 🎓 **BE CSE @ PSG College of Technology**
+
+💼 **Ex - SWE Intern @ Fidelity Investments** 
 
 🔭 I’m currently working on **Knowledge Graph, Embeddings, Vector Search & LLMs**
 
